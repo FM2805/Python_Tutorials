@@ -26,7 +26,7 @@ df = web.DataReader('AAPL','yahoo',start,end)
 #print(df.tail(3))
 #df.to_csv('Apple.csv')
 
-#Need to set the date as the index
+# Need to set the date as the index
 df =pd.read_csv('C:/Users/FloM/Desktop/Persönlich/Programmieren/Python/Tutorials/Finance/Apple.csv',parse_dates=True,index_col=0)
 print(df.head())
 
