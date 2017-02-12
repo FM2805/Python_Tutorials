@@ -1,8 +1,11 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Feb  6 20:22:42 2017
-
 @author: FloM
+"""
+
+"""
+sentdex tutorial - Programming for finance 1-4
 """
 
 import datetime as dt
